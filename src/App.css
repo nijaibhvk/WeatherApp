@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.InfoBox {
+  text-align: center;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+}
